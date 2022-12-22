@@ -3,7 +3,7 @@
   "value": {
     "key": "default",
     "chain-id": "imperium-4",
-    "rpc-addr": "http://lcd-testnet.firmachain.dev:26657",
+    "rpc-addr": "https://lcd-testnet.firmachain.dev:26657/",
     "account-prefix": "firma",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
